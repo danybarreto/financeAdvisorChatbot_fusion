@@ -1,0 +1,9 @@
+# Datos financieros en tiempo real
+nasdaq-data-link
+yfinance
+alpha_vantage
+pandas-datareader
+
+# Mejoras para filtros
+python-multipart
+pydantic[email]

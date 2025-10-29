@@ -1,0 +1,12 @@
+# API Keys
+OPENAI_API_KEY=tu_api_key_de_openai
+NASDAQ_DATA_LINK_API_KEY=tu_api_key_de_nasdaq
+ALPHA_VANTAGE_API_KEY=tu_api_key_de_alpha_vantage
+
+# Base de datos
+DATABASE_URL=postgresql://user:password@localhost/financial_chatbot
+
+# AWS S3
+AWS_ACCESS_KEY_ID=tu_access_key
+AWS_SECRET_ACCESS_KEY=tu_secret_key
+AWS_BUCKET_NAME=tu_bucket_name
